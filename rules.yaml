@@ -1,0 +1,33 @@
+weights:
+  "notifyrewardamount": 2.5
+  "gauge": 2.0
+  "epoch": 1.5
+  "airdrop": 2.0
+  "retroactive": 1.8
+  "tge": 2.2
+  "incentive": 1.6
+  "emission": 1.6
+  "whitelist": 1.4
+  "points": 1.2
+  "pendle": 2.3
+  "yt": 1.8
+  "pt": 1.8
+  "aave": 1.6
+  "euler": 1.6
+  "zerolend": 1.4
+  "morpho": 1.6
+  "symbiotic": 1.2
+  "etherex": 1.4
+  "velodrome": 1.0
+  "aerodrome": 1.0
+  "depeg": 2.0
+  "oracle": 1.7
+  "pause": 1.5
+  "timelock": 1.3
+  "exploit": 1.6
+  "funding": 1.7
+  "basis": 1.5
+  "cl ": 1.0
+  "range": 1.0
+threshold: 3.0
+top_n: 5
